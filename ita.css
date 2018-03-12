@@ -69,18 +69,17 @@ li.dropdown {
 	position:absolute;
 	right:2%;
 }
-#main h1{
-	position: absolute;
-	font-family: Courier;
-	font-size: 20px;
-	color: black;
-	top:110%;
-	left:5%;
+#pic1 img{
+	position:absolute;
+	left:0%;
+	bottom:-15%;
+	width:650px;
+	height:560px:
 }
-#main img{
-	position: absolute;
-	left:25%;
-	top:65%;
-	width:680px;
-	height:370px;
+#pic2 img{
+	position:absolute;
+	right:0%
+	bottom:
+	width:
+	height:
 }
